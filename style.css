@@ -1,0 +1,42 @@
+header {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+}
+
+nav {
+    float: right;
+}
+
+.navbar {
+    padding: 0;
+}
+
+.row {
+    margin-right: 40;
+    margin-left: -10;
+}
+
+body {
+    font-family: 'Adamina', serif;
+}
+
+h4 {
+    padding: 10;
+}
+
+.icon {
+    margin-top: 10;
+    padding: 15;
+}
+
+.card-columns {
+    display: inline-block; 
+}
+
+.photo {
+    width: 90%;
+    border-radius: 10px;
+    margin-bottom: 50;
+}
